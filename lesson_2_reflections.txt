@@ -1,0 +1,2 @@
+-- What happens when you initialize a repository? Why do you need to do it?
+You create a repository without any commits. You need to make a commit yourself afterwards because 1) sometimes you don't want to commit everything and 2) if git automatically makes a commit for you, you can't apend a message of what the commit is
