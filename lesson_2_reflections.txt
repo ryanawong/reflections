@@ -1,2 +1,5 @@
 -- What happens when you initialize a repository? Why do you need to do it?
 You create a repository without any commits. You need to make a commit yourself afterwards because 1) sometimes you don't want to commit everything and 2) if git automatically makes a commit for you, you can't apend a message of what the commit is
+
+-- How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is an intermediate collection of files that are waiting to be added to the repository. This provides the value of only committing specific files that you want per commit
